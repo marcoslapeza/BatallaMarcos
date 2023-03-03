@@ -73,7 +73,7 @@ public class ControlJuego extends Application {
         Lancha lanchaRoja = new Lancha(this, "lanchaRoja", Equipo.ROJO, 800, 250);
         Lancha lanchaRoja2 = new Lancha(this, "lanchaRoja2", Equipo.ROJO, 800, 400);
         Acorazado acorazadoRojo = new Acorazado(this, "acorazadoRojo", Equipo.ROJO, 800, 650);
-        Submarino submarinoRojo = new Submarino(this, "submarinoRojo", Equipo.ROJO, 800, 700);
+        Submarino submarinoRojo = new Submarino(this, "submarinoRojo", Equipo.ROJO, 800, 600);
 
         barcos.add(acorazadoRojo);
         barcos.add(lanchaRoja);
